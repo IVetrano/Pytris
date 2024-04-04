@@ -1,5 +1,5 @@
 remote_theme: pages-themes/cayman@v0.2.0
 
-title: TetrisPy
+title: Pytris
 description: Un Tetris desarrollado en Python.
 show_downloads: true
