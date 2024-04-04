@@ -16,3 +16,6 @@ Tetris es un clásico juego de puzzle que desafía la destreza y la habilidad de
 
 ## Controles
 Para configurar los controles para jugar se debe modificar el archivo ```teclas.txt```.
+
+# Gamelib
+Este juego usa el modulo ```Gamelib``` desarrollado por Diego Essaya, el cual se puede encontrar [en este link](https://github.com/dessaya/python-gamelib).
