@@ -1,4 +1,4 @@
-# TetrisPy
+# Pytris
 A Tetris game developed in Python.
 
 This project was developed for the course ```Algorithms and Programming I``` at the ```University of Buenos Aires```.
