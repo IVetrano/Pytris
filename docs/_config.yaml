@@ -1,4 +1,5 @@
 remote_theme: pages-themes/cayman@v0.2.0
 
 title: TetrisPy
-description: A Tetris game developed in Python.
+description: Un Tetris desarrollado en Python.
+show_downloads: true
