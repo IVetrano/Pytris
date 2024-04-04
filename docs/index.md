@@ -1,6 +1,6 @@
 ---
-title: TetrisPy
-description: A Tetris game developed in Python.
+title: Pytris
+description: Un tetris desarrollado en Python.
 ---
 
 # Descripción
