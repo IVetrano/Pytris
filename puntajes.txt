@@ -1,0 +1,10 @@
+Lucas: 800
+Hector: 400
+Lucia: 300
+Ignacio: 200
+Ignacio: 112
+Paula: 105
+T: 97
+Eduardo: 70
+Idoboga: 67
+L: 62
