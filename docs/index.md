@@ -5,7 +5,7 @@ description: A Tetris game developed in Python.
 
 # Descripción
 
-Tetris es un clásico juego de puzzle que desafía la destreza y la habilidad del jugador. En Tetris, piezas de diferentes formas, conocidas como tetrominós, caen desde la parte superior de la pantalla. El objetivo es rotar y colocar estas piezas de manera estratégica para completar líneas horizontales sin dejar espacios vacíos. A medida que el juego avanza, la velocidad aumenta, poniendo a prueba la velocidad de reacción y la capacidad de planificación del jugador.
+Tetris es un clásico juego de puzzle que desafía la destreza y la habilidad del jugador. En Tetris, piezas de diferentes formas, conocidas como tetrominós, caen desde la parte superior de la pantalla. El objetivo es rotar y colocar estas piezas de manera estratégica para completar líneas horizontales sin dejar espacios vacíos.
 
 # Vistas del juego
 ![Jugando](jugando.png)
